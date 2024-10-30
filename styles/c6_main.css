@@ -46,12 +46,12 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the main content */
-main {
+/*main {
 	clear: left;
-}
-main {
+}*/
+/*main {
 	padding: 0 30px;
-}
+}*/
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
