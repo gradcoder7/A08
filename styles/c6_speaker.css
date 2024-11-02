@@ -62,11 +62,7 @@ section h1 {
 	padding: .5em;
 	margin: 0;
 }
-/*section h2 {
-	color: #800000;
-	font-size: 130%;
-	padding: .5em 0 .25em 0;
-}*/
+
 section p {
 	padding-bottom: .5em;
 }
@@ -74,28 +70,23 @@ section blockquote {
 	padding: 0 2em;
 	font-style: italic;
 }
-/*
+
 section ul {
 	padding: 0 0 .25em 1.25em;
 }
 section li {
 	padding-bottom: .35em;
-}*/
+}
 
 /* the styles for the article */
 article {
 	padding: .5em 0;
-	/*border-top: 2px solid #800000;
-	border-bottom: 2px solid #800000;*/
 }
 article h2 {
 	font-size: 115%;
-	padding-top: 0 0 025em 0;
+	padding-top: 0 0 .25em 0;
 }
-/*article h3 {
-	font-size: 105%;
-	padding-bottom: .25em;
-}*/
+
 article img {
 	float: right;
 	margin: .5em 0 1em 1em;
