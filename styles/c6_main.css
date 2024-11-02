@@ -46,43 +46,39 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the main content */
-/*main {
-	clear: left;
-}
-main {
-	padding: 0 30px;
-}
-main h1 {
+
+section h1 {
 	font-size: 150%;
-	padding: .3em 0;
+	padding: .5em 0 .25em 0;
+	margin: 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
 }
-main h2 {
+section h2 {
 	color: #800000;
 	font-size: 130%;
 	padding: .5em 0 .25em 0;
 }
-main h3 {
+section h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
-main img {
+section img {
 	padding-bottom: 1em;
 }
-main p {
+section p {
 	padding-bottom: .5em;
 }
-main blockquote {
+section blockquote {
 	padding: 0 2em;
 	font-style: italic;
 }
-main ul {
+section ul {
 	padding: 0 0 .25em 1.25em;
 }
-main li {
+section li {
 	padding-bottom: .35em;
-}*/
+}
 
 section{
 	width: 525px;
@@ -92,6 +88,12 @@ section{
 
 aside{
 	padding: 0 0 20px 20px;
+}
+
+aside h2 {
+	color: #800000;
+	font-size: 130%;
+	padding: .5em 0 .25em 0;
 }
 /* the styles for the article */
 article {
@@ -105,6 +107,11 @@ article h2 {
 article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
+}
+article img{
+	float: right;
+	margin: .3em 0 2em 2em;
+	border: 1px  solid black;
 }
 
 /* the styles for the aside */
